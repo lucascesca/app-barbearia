@@ -2,7 +2,7 @@
 
 Projeto de Extensão desenvolvido durante a matéria de Programação Para Dispositivos Móveis em Android do curso de Análise e Desenvolvimento de Sistema da Estácio.
 
-Esse projeto consiste em um aplicativo que visa auxiliar o controle de clientes de uma barbearia situada na cidade de Potecas.
+Esse projeto consiste em um aplicativo que visa auxiliar o controle de clientes de uma barbearia situada na cidade de São José.
 
 ## Requisitos
 
